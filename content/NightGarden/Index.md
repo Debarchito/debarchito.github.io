@@ -9,3 +9,7 @@ longform:
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
+
+> "Why do I exist?" queries `Index`, small yet curious. "To witness preservation," world whispers, guiding along this path. 
+
+- [[Introduction]]
