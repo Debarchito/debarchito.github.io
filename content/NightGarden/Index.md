@@ -1,4 +1,5 @@
 ---
+title: 0. Index
 longform:
   format: scenes
   title: NightGarden
@@ -10,6 +11,7 @@ longform:
   ignoredFiles: []
 ---
 
-> "Why do I exist?" queries `Index`, small yet curious. "To witness preservation," world whispers, guiding along this path. 
+> "Why do I exist?" queries `Index`, small yet curious. "To witness preservation", world whispers, guiding along this path.
 
-- [[Introduction]]
+> [!hint] Links
+> -  [[Introduction]]
