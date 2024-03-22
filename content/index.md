@@ -3,7 +3,7 @@ title: Welcome to d'DG!
 ---
 
 > [!info] What is d'DG?
-> `d'DG` stands for **debarchito's** `Digital Garden`. This site is very recent, so expect some radical changes down the line!
+> `d'DG` (pronounced `dis-dee-gee`) stands for **debarchito's** `Digital Garden`. This site is very recent, so expect some radical changes down the line!
 
 ### Who am I?
 
