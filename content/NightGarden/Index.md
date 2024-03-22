@@ -14,4 +14,4 @@ longform:
 > "Why do I exist?" queries `Index`, small yet curious. "To witness preservation", world whispers, guiding along this path.
 
 > [!hint] Links
-> -  [[Introduction]]
+> -  [[Introduction|1. Introduction]]
