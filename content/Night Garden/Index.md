@@ -2,7 +2,7 @@
 title: 0. Index
 longform:
   format: scenes
-  title: NightGarden
+  title: Night Garden
   workflow: Default Workflow
   sceneFolder: /
   scenes:
