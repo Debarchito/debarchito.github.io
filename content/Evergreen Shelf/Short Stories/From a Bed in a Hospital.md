@@ -102,14 +102,14 @@ Silence enveloped them as his words sank in. His father broke the silence, patti
 > *“You did the right thing, son. I am proud of you. Sometimes, we feel that we have no purpose in life. But this is not the truth; everyone has a purpose. We go through many difficult situations. Sometimes they break us so badly, we think we can’t recover. But then we find hope. How we find it may vary, but a little fragment of hope can change our lives forever. Today, you saved a life, which may look like nothing more than a homeless kitten to others, but you didn’t abandon it. So, what do you think? Should we add a new member to the family?””*
 
 He erupted in happiness. Covered in tears of joy he replied, 
-> “Really?? Lets go!!". 
-> “I don’t understand you at all. When did you become so mature?”
+> *“Really?? Lets go!!".*   
+> *“I don’t understand you at all. When did you become so mature?”*
 
 asked his sister, her voice trembling with emotion, yet slowly steadying as she fought back tears, a faint smile appearing on her face. 
-> “What do you mean by that? Do you think I am still a small kid?”
+> *“What do you mean by that? Do you think I am still a small kid?”*
 
 said he, pouting slightly. 
-> “That’s what you have always been!”
+> *“That’s what you have always been!”*
 
  said his sister with a smile on her face. They all hugged each other warmly, a sense of unity and love filling the room.
 
