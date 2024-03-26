@@ -99,7 +99,7 @@ he continued with his voice filled with gratitude.
 > *“I wanted the kitten to find someone who could love it. But today, if I didn’t do what I did, it may have never seen the good things life has to offer.”*
 
 Silence enveloped them as his words sank in. His father broke the silence, patting his son's shoulder and saying, 
-> *“You did the right thing, son. I am proud of you. Sometimes, we feel that we have no purpose in life. But this is not the truth; everyone has a purpose. We go through many difficult situations. Sometimes they break us so badly, we think we can’t recover. But then we find hope. How we find it may vary, but a little fragment of hope can change our lives forever. Today, you saved a life, which may look like nothing more than a homeless kitten to others, but you didn’t abandon it. So, what do you think? Should we add a new member to the family?””*
+> *“You did the right thing, son. I am proud of you. Sometimes, we feel that we have no purpose in life. But this is not the truth; everyone has a purpose. We go through many difficult situations. Sometimes they break us so badly, we think we can’t recover. But then we find hope. How we find it may vary, but a little fragment of hope can change our lives forever. Today, you saved a life, which may look like nothing more than a homeless kitten to others, but you didn’t abandon it. So, what do you think? Should we add a new member to the family?”*
 
 He erupted in happiness. Covered in tears of joy he replied, 
 > *“Really?? Lets go!!".*   
