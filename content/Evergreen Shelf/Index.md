@@ -13,3 +13,4 @@ longform:
 
 > [!hint] Links
 > -  [[Evergreen Shelf/Short Stories/Index|Short Stories]]
+> - [[Evergreen Shelf/Novels/Index|Novels]]
