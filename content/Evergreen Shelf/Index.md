@@ -1,5 +1,6 @@
 ---
 title: 0. Index
+date: 2024-03-30
 longform:
   format: scenes
   title: Evergreen Shelf

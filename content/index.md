@@ -1,5 +1,6 @@
 ---
 title: Welcome to d'DG!
+date: 2024-03-26
 ---
 
 > [!info] What is d'DG?

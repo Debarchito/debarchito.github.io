@@ -1,5 +1,6 @@
 ---
 title: 0. Index
+date: 2024-03-26
 longform:
   format: scenes
   title: The Andew Labs
