@@ -1,6 +1,6 @@
 ---
 title: Welcome to d'DG!
-date: 2024-03-26
+date: 2024-05-13
 ---
 
 > [!info] What is d'DG?
@@ -12,6 +12,9 @@ I'm **Debarchito Nath** (also known as `Andew`). I'm a computer science student 
 
 - [GitHub](https://github.com/debarchito)
 - [Discord](https://discordapp.com/users/739497344780992564)
+- [Reddit](https://www.reddit.com/user/debarchito/)
+- [Twitter](https://twitter.com/debarchito)
+- [\[matrix\]](https://matrix.to/#/@debarchito:matrix.org)
 
 ### My works
 
