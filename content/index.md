@@ -1,10 +1,10 @@
 ---
 title: Welcome to d'DG!
-date: 2024-05-13
+date: 2024-05-25
 ---
 
 > [!info] What is d'DG?
-> `d'DG` (pronounced `dee-an-dee-gee`) stands for **debarchito's** `Digital Garden`. This site is very recent, so expect some radical changes down the line!
+> `d'DG` (pronounced `dee-an-dee-gee`) stands for **debarchito's** `Digital Garden`.
 
 ### Who am I?
 
