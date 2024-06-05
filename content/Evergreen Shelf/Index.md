@@ -13,5 +13,5 @@ longform:
 > "Echoes of the past beckon," whispers the `Index`, a tapestry of memories.  "Unfurl forgotten threads," it urges, "and weave a future unseen."
 
 > [!hint] Links
-> -  [[Evergreen Shelf/Short Stories/Index|Short Stories]]
-> - [[Evergreen Shelf/Novels/Index|Novels]]
+> 1.  [[Evergreen Shelf/Short Stories/Index|Short Stories]]
+> 2. [[Evergreen Shelf/Novels/Index|Novels]]
