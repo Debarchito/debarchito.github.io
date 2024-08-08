@@ -119,5 +119,5 @@ said he, pouting slightly.
 <a href="https://brainmade.org"><img src="https://brainmade.org/black-logo.png" alt="brainmade" width="160" height="50" /></a>
 
 > [!info] Footnotes
-> 1. **LLM Contribution:** *Auto-correct*. [[Why BRAINMADE.ORG?]]
+> 1. **LLM Contribution:** *Grammatical corrections (Grammerly)*. [[Why BRAINMADE.ORG?]]
 > 2. **Last Edited:** *Aug 08, 2024*
