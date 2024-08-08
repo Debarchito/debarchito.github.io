@@ -1,6 +1,6 @@
 ---
 title: 0. Index
-date: 2024-03-26
+date: 2024-08-08
 longform:
   format: scenes
   title: Night Garden
@@ -15,5 +15,5 @@ longform:
 > "Why do I exist?" queries `Index`, small yet curious. "To witness preservation", world whispers, guiding along this path.
 
 > [!hint] Links
-> 1. [[Introduction]]
-> 2. [[Why BRAINMADE.ORG?]]
+> 2\. [[Why BRAINMADE.ORG?]] <br/>
+> 1\. [[Introduction]]
