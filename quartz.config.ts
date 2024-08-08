@@ -20,7 +20,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Rosarivo",
+        header: "Raleway",
         body: "Source Sans Pro",
         code: "JetBrains Mono",
       },
