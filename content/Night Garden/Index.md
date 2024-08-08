@@ -16,3 +16,4 @@ longform:
 
 > [!hint] Links
 > 1. [[Introduction]]
+> 2. [[Why BRAINMADE.ORG?]]
